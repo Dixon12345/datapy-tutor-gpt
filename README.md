@@ -12,7 +12,6 @@ This project explores how prompt design can support hands-on learning using GPTs
 
 ### Files
 - `prompt.md`: The full GPT instruction prompt
-- `cover.png`: Screenshot of the GPT interface
-- `datapy_tutor_slides.pdf`: Optional slide showing layout
+
 
 
